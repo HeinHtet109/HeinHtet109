@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi There, Welcome to my Github profile! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<h3 align="center">Full Stack Web Developer | Agile Development Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer | Software Engineer | Problem Solver</h3>
 <div align=center>
         <a href="https://www.linkedin.com/in/hein-htet-27856817b/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="Linkedin" /></a>
         <a href="mailto:hein.htetsan37871@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=C1150F" alt="Gmail" /></a>
