@@ -5,7 +5,7 @@
 <div align=center>
         <a href="https://www.linkedin.com/in/hein-htet-27856817b/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="Linkedin" /></a>
         <a href="mailto:hein.htetsan37871@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=C1150F" alt="Gmail" /></a>
-        <a href="https://line.me/ti/p/eGwh01kdur"><img src="https://img.shields.io/badge/Line-06C755?style=flat&logo=line" alt="Line" /></a>
+        <a href="https://line.me/ti/p/eGwh01kdur"><img src="https://img.shields.io/badge/Line-06C755?style=flat&logo=line&logoColor=white" alt="Line" /></a>
         <a href="https://www.facebook.com/kgkhant.naing"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook" alt="Facebook" /></a>
         <a href="https://t.me/heinhtet037"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
