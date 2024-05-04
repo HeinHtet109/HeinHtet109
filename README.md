@@ -17,7 +17,7 @@
 <div align=left>       
         <p>
             <strong>                
-                I specialize in PHP Laravel and Microsoft SQL Server and I have experience working with mobile development using flutter. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I specialize in PHP Laravel and Microsoft SQL Server and I also have experience working with mobile development using flutter, java native, and react native. Good in Agile Development, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning PHP, all Back-End Technologies, Linux, Virtualization,and Cloud Computing.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
