@@ -24,7 +24,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m graduated from</b>: University of Greenwich (UK), and continuous learning Computer Science and Software Engineering.</li>
-            <li>🎯 <b>Visit my Portfolio</b>: <a href="https://heinhtet109.github.io/portfolio/">Here</a></li>
+            <li>🎯 <b>Visit my Portfolio</b>: <a href="https://heinhtet109.github.io/portfolio/" target="_blank">Here</a></li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, Please have a look at my <a href="https://heinhtet109.github.io/portfolio/assets/HeinHtetSan_Resume.pdf" download>RESUME</a> for more details about me..</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/HeinHtet109/AboutMe/issues">Here</a>.</li>
             <li>📫 <b>Feel free to reach me out</b>: <a href="mailto:hein.htetsan37871@gmail.com">hein.htetsan37871@gmail.com</a></li>
