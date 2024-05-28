@@ -42,18 +42,31 @@
   ![JQuery](https://img.shields.io/badge/JQuery-05122A?style=flat&logo=jquery)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS-05122A.svg?style=flat&logo=css3)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)&nbsp;
-  ![Tailwind](https://img.shields.io/badge/Tailwind-05122A.svg?style=flat&logo=tailwindcss)\
+  ![Tailwind](https://img.shields.io/badge/Tailwind-05122A.svg?style=flat&logo=tailwindcss)
+  ![Vuejs](https://img.shields.io/badge/VueJs-05122A.svg?style=flat&logo=vue.js)&nbsp;
+  ![React](https://img.shields.io/badge/React-05122A.svg?style=flat&logo=react)&nbsp;\
   ![PHP](https://img.shields.io/badge/PHP-05122A.svg?style=flat&logo=php)&nbsp;
   ![Laravel](https://img.shields.io/badge/Laravel-05122A.svg?style=flat&logo=laravel)&nbsp;
   ![NodeJs](https://img.shields.io/badge/-Nodejs-05122A.svg?style=flat&logo=node.js)&nbsp;
-  ![Vuejs](https://img.shields.io/badge/VueJs-05122A.svg?style=flat&logo=vue.js)&nbsp;
-  ![React](https://img.shields.io/badge/React-05122A.svg?style=flat&logo=react)&nbsp;
-  ![Flutter](https://img.shields.io/badge/Flutter-05122A.svg?style=flat&logo=flutter)&nbsp;\
+  ![MySQL](https://img.shields.io/badge/MySQL-05122A.svg?style=flat&logo=mysql)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLite-05122A.svg?style=flat&logo=sqlite)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A.svg?style=flat&logo=postgresql)&nbsp;
+  ![Flutter](https://img.shields.io/badge/Flutter-05122A.svg?style=flat&logo=flutter)&nbsp;
+  ![ReactNative](https://img.shields.io/badge/ReactNative-05122A.svg?style=flat&logo=react)&nbsp;\
+  ![JavaNative](https://img.shields.io/badge/JavaNative-05122A.svg?style=flat&logo=java)&nbsp;
   ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)&nbsp;
   ![Github](https://img.shields.io/badge/Github-05122A.svg?style=flat&logo=github)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-05122A.svg?style=flat&logo=mysql)&nbsp;\
   ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-05122A.svg?style=flat&logo=visual-studio-code)&nbsp;
-  ![AndriodStudio](https://img.shields.io/badge/Andriod%20Studio-05122A.svg?style=flat&logo=android-studio)&nbsp;\
+  ![AndriodStudio](https://img.shields.io/badge/Andriod%20Studio-05122A.svg?style=flat&logo=android-studio)&nbsp;
+  ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-05122A.svg?style=flat&logo=phpmyadmin)&nbsp;\
+  ![Apache2](https://img.shields.io/badge/Apache2-05122A.svg?style=flat&logo=apache)&nbsp;
+  ![Nginx](https://img.shields.io/badge/Nginx-05122A.svg?style=flat&logo=nginx)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-05122A.svg?style=flat&logo=postman)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-05122A.svg?style=flat&logo=docker)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-05122A.svg?style=flat&logo=figma)&nbsp;
+  ![SSH](https://img.shields.io/badge/SSH-05122A.svg?style=flat&logo=ssh)&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-05122A.svg?style=flat&logo=firebase)&nbsp;
+  ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-05122A.svg?style=flat&logo=mysql-workbench)&nbsp;\
   ![Linux](https://img.shields.io/badge/Linux-05122A.svg?style=flat&logo=linux)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A.svg?style=flat&logo=ubuntu)&nbsp;
   ![Window](https://img.shields.io/badge/Windows-05122A.svg?style=flat&logo=windows)&nbsp;
@@ -61,6 +74,7 @@
   ![Digitalocean](https://img.shields.io/badge/Digitalocean-05122A.svg?style=flat&logo=digitalocean)&nbsp;
   ![AWS](https://img.shields.io/badge/AWS-05122A.svg?style=flat&logo=amazonaws)&nbsp;
   ![Cpanel](https://img.shields.io/badge/cPanel-05122A.svg?style=flat&logo=cpanel)&nbsp;
+  ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-05122A.svg?style=flat&logo=googlecloud)&nbsp;
   
 
 ### ⚙️ &nbsp;GitHub Analytics
